@@ -4,6 +4,7 @@
 ![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange)
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%202.5-4285F4)
 ![Weave](https://img.shields.io/badge/Observability-Weave-yellow)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TcCsKJDziIyC4P_VX6-SJJs2kgKb-vy6?usp=sharing)
 
 Un sistema agéntico inteligente diseñado para actuar como tutor universitario de programación en Python. Utiliza una arquitectura de grafos para clasificar, razonar, generar código y validarlo mediante ejecución real.
 
@@ -55,10 +56,13 @@ graph TD
 
 2.Instalar dependencias:
 
+```bash
 pip install google-genai langchain langchain-google-genai langgraph langchain-experimental pydantic weave
+```
 3.Configurar API Keys (Google AI Studio & W&B).
 
 4.Ejecutar el notebook Agente_Tutor_Universitario.ipynb.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TcCsKJDziIyC4P_VX6-SJJs2kgKb-vy6?usp=sharing)
 
 ## 📈 Trazabilidad (Weave)
 Este proyecto implementa monitoreo de trazas para auditoría de IA. Ver Dashboard de Ejemplo en W&B (https://wandb.ai/teamlg-ai/agente_tutor_python/weave/traces?view=traces_2025-12-12_05-41-48-915)
