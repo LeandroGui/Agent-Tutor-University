@@ -28,3 +28,14 @@ Este sistema agéntico actúa como un tutor inteligente especializado en program
   "input_usuario": "string (The student's query)",
   "input_imagen": "string (Optional: Base64 encoded image string)"
 }
+
+📤 Output Schema
+
+{
+  "respuesta_final": "string (Markdown formatted explanation + code + result)",
+  "codigo_generado": "string (Raw Python code)",
+  "clasificacion": {
+    "tipo_tarea": "TEORIA | PRACTICA",
+    "modulo": "Identified Module Name"
+  }
+}
