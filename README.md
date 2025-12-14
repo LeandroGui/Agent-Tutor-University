@@ -56,7 +56,7 @@ pip install google-genai langchain langchain-google-genai langgraph langchain-ex
 4.Ejecutar el notebook Agente_Tutor_Universitario.ipynb.
 
 ## 📈 Trazabilidad (Weave)
-Este proyecto implementa monitoreo de trazas para auditoría de IA. Ver Dashboard de Ejemplo en W&B (https://www.google.com/url?q=https%3A%2F%2Fwandb.ai%2Fteamlg-ai%2Fagente_tutor_python%2Fweave%2Ftraces%3Fview%3Dtraces_2025-12-12_05-41-48-915)
+Este proyecto implementa monitoreo de trazas para auditoría de IA. Ver Dashboard de Ejemplo en W&B (https://wandb.ai/teamlg-ai/agente_tutor_python/weave/traces?view=traces_2025-12-12_05-41-48-915)
 
 Author: Leandro Guiñazu Proyecto desarrollado como parte del portfolio de Ingeniería de IA Generativa.
 
