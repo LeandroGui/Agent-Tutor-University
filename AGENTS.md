@@ -23,13 +23,13 @@ Este sistema agéntico actúa como un tutor inteligente especializado en program
     * `Weave`: For observability and tracing.
 
 ## 📥 Input Schema
-```json
+
 {
   "input_usuario": "string (The student's query)",
   "input_imagen": "string (Optional: Base64 encoded image string)"
 }
 
-📤 Output Schema
+## 📤 Output Schema
 
 {
   "respuesta_final": "string (Markdown formatted explanation + code + result)",
