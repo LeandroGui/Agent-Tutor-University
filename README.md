@@ -69,5 +69,5 @@ Este proyecto implementa monitoreo de trazas para auditoría de IA. Ver Dashboar
 
 ### Author:
 
-Leandro Guiñazu Proyecto desarrollado como parte del portfolio de Ingeniería de IA Generativa.
+Leandro Guiñazu. Proyecto desarrollado como parte del portfolio de Ingeniería de IA Generativa.
 
