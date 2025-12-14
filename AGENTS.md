@@ -1,4 +1,4 @@
-
+# AGENTS.md
 
 > **Standard Version:** 1.0 (Agentic AI Foundation)
 
