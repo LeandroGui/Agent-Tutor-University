@@ -1,5 +1,4 @@
-```markdown
-# AGENTS.md
+
 
 > **Standard Version:** 1.0 (Agentic AI Foundation)
 > **Agent Name:** Python Tutor Agentic System
