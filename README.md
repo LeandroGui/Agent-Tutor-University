@@ -67,5 +67,7 @@ pip install google-genai langchain langchain-google-genai langgraph langchain-ex
 ## 📈 Trazabilidad (Weave)
 Este proyecto implementa monitoreo de trazas para auditoría de IA. Ver Dashboard de Ejemplo en W&B (https://wandb.ai/teamlg-ai/agente_tutor_python/weave/traces?view=traces_2025-12-12_05-41-48-915)
 
-Author: Leandro Guiñazu Proyecto desarrollado como parte del portfolio de Ingeniería de IA Generativa.
+### Author:
+
+Leandro Guiñazu Proyecto desarrollado como parte del portfolio de Ingeniería de IA Generativa.
 
