@@ -45,14 +45,19 @@ graph TD
 
 ## 📋 Casos de Uso Demostrados
 1.Resolución de Ejercicios Visuales: El agente extrae datos de una imagen PNG y genera el script para resolverlo.
+
 2.Consultas Conceptuales: Explicaciones pedagógicas sobre estructuras de datos.
+
 3.Debugging Automático: Generación y prueba de scripts en tiempo real.
 
 ## 🚀 Cómo Ejecutar
 1.Clonar el repositorio.
+
 2.Instalar dependencias:
+
 pip install google-genai langchain langchain-google-genai langgraph langchain-experimental pydantic weave
 3.Configurar API Keys (Google AI Studio & W&B).
+
 4.Ejecutar el notebook Agente_Tutor_Universitario.ipynb.
 
 ## 📈 Trazabilidad (Weave)
