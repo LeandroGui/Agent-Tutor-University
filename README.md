@@ -11,7 +11,7 @@ Un sistema agéntico inteligente diseñado para actuar como tutor universitario 
 
 ## 🏆 Certificación Obtenida
 
-Este proyecto fue desarrollado e implementado exitosamente como parte de los requisitos para obtener la certificación profesional, dictada por la W&B AI Academy (https://wandb.ai/site):
+Este proyecto fue desarrollado e implementado exitosamente como parte de los requisitos de la W&B AI Academy (https://wandb.ai/site), para obtener la certificación profesional:
 
 **🎓 AI Engineering: Agents**
 
