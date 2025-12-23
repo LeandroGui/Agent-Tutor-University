@@ -1,12 +1,30 @@
 # 🎓 Python Tutor Agentic System
 
+![W&B Certification](https://img.shields.io/badge/Certification-AI%20Engineering%3A%20Agents-gold?logo=weightsandbiases)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![LangGraph](https://img.shields.io/badge/Orchestration-LangGraph-orange)
 ![Gemini](https://img.shields.io/badge/AI-Google%20Gemini%202.5-4285F4)
 ![Weave](https://img.shields.io/badge/Observability-Weave-yellow)
+![Certification](https://img.shields.io/badge/Certification-AI_Engineering:_Agents-gold)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1TcCsKJDziIyC4P_VX6-SJJs2kgKb-vy6?usp=sharing)
 
 Un sistema agéntico inteligente diseñado para actuar como tutor universitario de programación en Python. Utiliza una arquitectura de grafos para clasificar, razonar, generar código y validarlo mediante ejecución real.
+
+## 🏆 Certificación Obtenida
+
+La implementación exitosa de este sistema agéntico multimodal, cumpliendo con los estándares de orquestación (LangGraph) y observabilidad (Weave), acreditó la obtención de la certificación profesional:
+
+**🎓 AI Engineering: Agents**
+
+> [**Ver Credencial / Certificado**](AQUI_TU_ENLACE_A_LA_CERTIFICACION)
+
+## 🏆 Certificación Lograda
+
+Este proyecto fue desarrollado e implementado exitosamente como parte de los requisitos para obtener la certificación **'AI Engineering: Agents'**, dictada por la **W&B AI Academy** (wandb.ai).
+
+> La certificación valida competencias en diseño de sistemas agénticos, orquestación con grafos y observabilidad de LLMs.
+
+[📜 Ver Credencial / Certificado](AQUI_TU_ENLACE_A_LA_CERTIFICACION)
 
 ## 🌟 Características Principales
 
