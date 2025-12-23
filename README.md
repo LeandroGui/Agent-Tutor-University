@@ -15,7 +15,7 @@ Este proyecto fue desarrollado e implementado exitosamente como parte de los req
 
 **🎓 AI Engineering: Agents**
 
-> [**Ver Credencial / Certificado**](ttps://api.accredible.com/v1/auth/invite?code=9aa6bec2d643249425b6&credential_id=723f11e8-d673-4d9a-b5b1-62a8f1324935&url=https%3A%2F%2Fwww.credential.net%2F723f11e8-d673-4d9a-b5b1-62a8f1324935&ident=436e38da-31a6-4e24-992a-cd1e106f3e3c)
+[📜 Ver Credencial / Certificado](https://api.accredible.com/v1/auth/invite?code=9aa6bec2d643249425b6&credential_id=723f11e8-d673-4d9a-b5b1-62a8f1324935&url=https%3A%2F%2Fwww.credential.net%2F723f11e8-d673-4d9a-b5b1-62a8f1324935&ident=436e38da-31a6-4e24-992a-cd1e106f3e3c)
 
 ## 🌟 Características Principales
 
